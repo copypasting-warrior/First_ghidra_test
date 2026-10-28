@@ -63,7 +63,8 @@ After this, you should see a menu like this:
 
 We want to drag the built EXE into this window, and you will be shown this menu:
 
-<img width="750" height="369" alt="image" src="https://github.com/user-attachments/assets/4bd14990-036a-466d-835f-3ab85504f497" />
+<img width="739" height="363" alt="image" src="https://github.com/user-attachments/assets/9f66030e-4211-423b-addd-8ae402d95091" />
+
 
 Click **OK** to continue.
 
