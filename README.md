@@ -86,7 +86,7 @@ A main function that checks if the value of `var1` is `0` or not, and if it is `
 
 <img width="489" height="291" alt="image" src="https://github.com/user-attachments/assets/a34aaaed-0b6e-4397-b47f-13279575f2d5" />
 
-This is very close to our original logic that checks if the output of `checkc` for the input `code` is `1`, for which it prints `"Access Granted"`, and if it's not, it prints `"Access Denied"`.
+This is very close to our original logic that checks if the output of `checkc` for the input value `code` is `1`, if true it prints `"Access Granted"`, and if it's not, it prints `"Access Denied"`.
 
 ## Analyzing the `checkc` Function
 
